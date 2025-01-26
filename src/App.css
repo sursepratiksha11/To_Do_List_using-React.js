@@ -1,0 +1,28 @@
+h1{
+    margin: 10px;
+    font-size: 20px;
+    font-weight:700px;
+}
+
+input{
+    width:80%;
+ }
+
+ .items-container{
+    text-align:left;
+    margin:20px;
+ }
+
+ .kg-button{
+    min-width: 100px;
+ }
+
+ .kg-row{
+  margin: 10px 5px;
+ }
+
+ .welcomeMessage{
+   font-size: 35px;
+   margin-top:50px;
+   font-weight: 688;
+ }
